@@ -1,0 +1,1 @@
+The Property Graph Exchange Format (PG) provides a **data model**, serialization **formats** and **applications** for **labeled property graphs**. See the **[PG specification](https://pg-format.github.io/specification/)** for details.
